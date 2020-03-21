@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mnuFree"
+        android:title="National" />
+    <item
+        android:id="@+id/mnuPaid"
+        android:title="Sports" />
+    <item
+        android:id="@+id/mnuMovies"
+        android:title="International" />
+    <item
+        android:id="@+id/mnuRefresh"
+        android:title="Refresh" />
+</menu>
